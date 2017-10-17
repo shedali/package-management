@@ -1,0 +1,1 @@
+Keep multiple Mac environments in sync via configuration
